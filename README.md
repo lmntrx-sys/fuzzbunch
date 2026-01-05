@@ -11,4 +11,4 @@ For you to see this working
 
 When you type something on the client or server side you will see the message on the other side, depending on where you typed
 
-# I will also try to iplment some ecryption (From scartch)
+# I will also try to implement some ecryption (From scartch)
